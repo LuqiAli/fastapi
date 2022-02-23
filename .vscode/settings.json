@@ -4,6 +4,7 @@
         "isouter",
         "luqman",
         "psycopg",
-        "pydantic"
+        "pydantic",
+        "uvicorn"
     ]
 }
